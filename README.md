@@ -35,7 +35,7 @@ So I made my own. Still wondering why ? Because I can !
   <img src="Images/board_bottom.jpg" width="49%" alt="Bottom of the board">
 </p>
 
-## Pinout 📌
+## Pinout 
 
 | Left header | | Right header |
 |---|---|---|
