@@ -116,7 +116,7 @@ Red, green, blue and a blinking user LED? The board works. Nothing? Check that s
 | LDO 3.3V / 700mA | XC6210B332MR-G | C47719 |
 | Battery charger | TP4057 | C12044 |
 | Power path MOSFET | DMG3415UQ-7 | C459537 |
-| Schottky diode | NSR0320MW2T1G | C48192 |
+| Schottky diode | 1N5819HW-7-F | C82544 |
 | Auto-reset transistors (x2) | L8050QLT1G | C49581 |
 | USB-C connector | GT-USB-7010ASV | C2988369|
 | Battery connector | PH2.0 2P SMD | C47647 |
