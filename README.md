@@ -105,7 +105,7 @@ void loop() {
 }
 ```
 
-Red, green, blue and a blinking user LED? The board works. Nothing? Check SB1. Still nothing? The board works and the code is lying...
+Red, green, blue and a blinking user LED? The board works. Nothing? Check that solder bridge. Still nothing? The board works and the code is lying...
 
 ## Main components 
 
